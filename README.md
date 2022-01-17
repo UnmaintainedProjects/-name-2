@@ -17,7 +17,7 @@ An example bot using [gotgcalls].
 go run .
 ```
 
-> Note that ou will need to login to your Telegram account once.
+> Note that you will need to login to your Telegram account once.
 
 ## Commands
 
